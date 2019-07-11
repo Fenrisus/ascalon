@@ -5,3 +5,7 @@ Ascalon is a social discord bot that combines the use of RiotAPI to get statisti
 ### Screens
 ![Screen One](https://i.imgur.com/KXwWbvu.png)
 ![Screen Two](https://i.imgur.com/ByHG8rP.png)
+
+
+### Note
+That webpage is just temporal and not seriously designed etc. Because my project is a bot for discord server.
